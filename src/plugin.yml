@@ -1,0 +1,10 @@
+name: KitNotifications
+version: 1.0.0
+author: Harbo5
+main: com.harbo.kitnotifications.Main
+depend: [Essentials]
+
+commands:
+  kitsnotify:
+    usage: /<command>
+    description: Modify kit reminders
